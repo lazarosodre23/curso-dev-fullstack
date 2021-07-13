@@ -1,0 +1,33 @@
+body{
+    background: #c7d3c1;
+    font-family: 'Raleway', sans-serif;
+}
+
+p{
+    color: #222222;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #ffffff;
+    border-radius: 25px;
+    margin: 10px;
+    padding: 3px;
+    box-shadow: 9px 6px 20px #000000bf;        
+}
+
+h1{
+    font-family: 'Viaoda Libre', cursive;
+    color: rgb(0, 0, 0);
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-size: 35px;
+}
+h2{
+    margin-top: 0;
+    font-style: italic;
+    font-weight: 100;
+    font-size: large;
+    letter-spacing: -1px;
+
+}

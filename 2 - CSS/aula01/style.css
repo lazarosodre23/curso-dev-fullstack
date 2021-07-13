@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(230, 21, 38);
+}
+
+h3, h1{
+    color: cornsilk;
+}
+
+.foto{
+    width: 300px;
+}
+
+#titulo-principal {
+    color: yellow;
+}
